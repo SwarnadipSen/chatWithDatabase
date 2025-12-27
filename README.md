@@ -116,4 +116,4 @@ GROQ_API_KEY=your_api_key_here
 
 This project is open source and available under the MIT License.
 
-Creator is YoYo Ayan 
+Creator is not YoYo Ayan 
